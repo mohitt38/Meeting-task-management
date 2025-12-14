@@ -1,0 +1,47 @@
+[
+    {
+        "task_id": 1,
+        "description": "Sakshi, we need you to fix the critical login bug that users reported yesterday",
+        "deadline": "Not mentioned",
+        "priority": "High",
+        "assigned_to": "Sakshi",
+        "reason": "Name explicitly mentioned",
+        "dependency": null
+    },
+    {
+        "task_id": 2,
+        "description": "This task must be completed by tomorrow evening because it is blocking user access",
+        "deadline": "Tomorrow",
+        "priority": "High",
+        "assigned_to": "Unassigned",
+        "reason": "No matching rule",
+        "dependency": null
+    },
+    {
+        "task_id": 3,
+        "description": "Arjun, we also need the new onboarding screens designed for the next sprint",
+        "deadline": "Not mentioned",
+        "priority": "Medium",
+        "assigned_to": "Arjun",
+        "reason": "Name explicitly mentioned",
+        "dependency": null
+    },
+    {
+        "task_id": 4,
+        "description": "Additionally, someone must update the api documentation before friday's release",
+        "deadline": "Friday",
+        "priority": "Medium",
+        "assigned_to": "Mohit",
+        "reason": "Matched skill: api",
+        "dependency": null
+    },
+    {
+        "task_id": 5,
+        "description": "This depends on the login bug being fixed first, so schedule this for wednesday",
+        "deadline": "Wednesday",
+        "priority": "Medium",
+        "assigned_to": "Sakshi",
+        "reason": "Matched skill: login",
+        "dependency": "Depends on previous task"
+    }
+]
