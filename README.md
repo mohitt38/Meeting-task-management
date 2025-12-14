@@ -72,10 +72,10 @@ All task identification and assignment logic is rule-based
 ## Screenshots
 
 Upload Meeting Audio
-![Upload Meeting Audio](Screenshot 2025-12-14 110118.png)
+![Upload Meeting Audio](D:\MY FILES\My Projects\KRIRA AI\Screenshot 2025-12-14 110118.png)
 
 Extracted and Assigned Tasks
-![Task Assignment Table](Screenshot 2025-12-14 110131.png)
+![Task Assignment Table](D:\MY FILES\My Projects\KRIRA AI\Screenshot 2025-12-14 110131.png)
 
 
 
